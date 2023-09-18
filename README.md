@@ -1,21 +1,77 @@
+Hello there! 👋 I'm [Hilary Emmanuel], a passionate backend developer with a strong interest in creating robust and scalable solutions. While I may not have specific years of experience to boast about, I am enthusiastic about technology and committed to continuous learning and improvement.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hilary-emmanuel-080044240?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJCP0tpB4QbGEfIBvxfDhHg%3D%3D) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/emmanuelhilary_) 
+# My Skills
+- Programming Languages: I'm proficient in languages such as Python, Java, and JavaScript, and always excited to explore more.
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HilaryEmmanuel&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HilaryEmmanuel&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HilaryEmmanuel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- Database Management: I have experience working with databases like MySQL, PostgreSQL, and NoSQL databases, which are essential for building backend systems.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=HilaryEmmanuel&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- API Development: I can design and develop RESTful APIs, making it easier for frontend developers and mobile apps to interact with the backend.
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+- Server Management: I'm familiar with server management and deployment using tools like Docker and cloud platforms such as AWS, Azure, and Heroku.
 
----
-[![](https://visitcount.itsvg.in/api?id=HilaryEmmanuel&icon=0&color=0)](https://visitcount.itsvg.in)
+- Version Control: I use Git and GitHub to manage code, collaborate with others, and track changes effectively.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- Testing and Debugging: I understand the importance of writing clean and testable code, and I'm comfortable with testing frameworks and debugging tools.
+
+# My Goals
+- While I may not have years of experience, I'm on a journey to become a skilled and experienced backend developer. Here are some of my goals:
+
+- Gain practical experience by working on real-world projects and contributing to open source.
+
+- Keep up with the latest trends and technologies in backend development.
+
+- Collaborate with experienced developers and learn from their expertise.
+
+- Contribute to the tech community through knowledge sharing and mentorship as I grow in my career.
+
+
+Creating a README profile for a backend developer with no specific years of experience is still possible and can highlight your skills, interests, and goals. Here's an example of what your README profile could look like:
+
+Backend Developer Profile
+Profile Picture
+
+Hello there! 👋 I'm [Your Name], a passionate backend developer with a strong interest in creating robust and scalable solutions. While I may not have specific years of experience to boast about, I am enthusiastic about technology and committed to continuous learning and improvement.
+
+🚀 My Skills
+Programming Languages: I'm proficient in languages such as Python, Java, and JavaScript, and always excited to explore more.
+
+Database Management: I have experience working with databases like MySQL, PostgreSQL, and NoSQL databases, which are essential for building backend systems.
+
+API Development: I can design and develop RESTful APIs, making it easier for frontend developers and mobile apps to interact with the backend.
+
+Server Management: I'm familiar with server management and deployment using tools like Docker and cloud platforms such as AWS, Azure, and Heroku.
+
+Version Control: I use Git and GitHub to manage code, collaborate with others, and track changes effectively.
+
+Testing and Debugging: I understand the importance of writing clean and testable code, and I'm comfortable with testing frameworks and debugging tools.
+
+💡 My Projects
+Here are a few projects I've worked on or currently working on:
+
+Project 1: Project Name - A brief description of the project, your role, and the technologies used.
+
+Project 2: Project Name - Another project, highlighting what you learned and achieved while working on it.
+
+Open Source Contributions: I love contributing to open-source projects. You can find my contributions on my GitHub profile.
+
+🌱 My Goals
+While I may not have years of experience, I'm on a journey to become a skilled and experienced backend developer. Here are some of my goals:
+
+Gain practical experience by working on real-world projects and contributing to open source.
+
+Keep up with the latest trends and technologies in backend development.
+
+Collaborate with experienced developers and learn from their expertise.
+
+Contribute to the tech community through knowledge sharing and mentorship as I grow in my career.
+
+📫 Let's Connect
+I'm always open to connecting with fellow developers, learning from experienced professionals, and exploring exciting opportunities. Feel free to reach out to me via:
+
+- Email: emmanuelhilary9@gmail.com
+
+- LinkedIn: https://www.linkedin.com/in/hilary-emmanuel-080044240?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJCP0tpB4QbGEfIBvxfDhHg%3D%3D
+
+- GitHub: https://github.com/HilaryEmmanuel/HilaryEmmanuel
+
+- Let's embark on this exciting journey together, and I look forward to connecting with you
