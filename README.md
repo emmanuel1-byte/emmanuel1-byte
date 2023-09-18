@@ -26,7 +26,7 @@ Hello there! 👋 I'm Hilary Emmanuel, a passionate backend developer with a str
 - Contribute to the tech community through knowledge sharing and mentorship as I grow in my career.
   
 
-📫 Let's Connect
+# 📫Let's Connect
 I'm always open to connecting with fellow developers, learning from experienced professionals, and exploring exciting opportunities. Feel free to reach out to me via:
 
 - Email: emmanuelhilary9@gmail.com
