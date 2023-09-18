@@ -1,4 +1,4 @@
-Hello there! 👋 I'm [Hilary Emmanuel], a passionate backend developer with a strong interest in creating robust and scalable solutions. While I may not have specific years of experience to boast about, I am enthusiastic about technology and committed to continuous learning and improvement.
+Hello there! 👋 I'm Hilary Emmanuel, a passionate backend developer with a strong interest in creating robust and scalable solutions. While I may not have specific years of experience to boast about, I am enthusiastic about technology and committed to continuous learning and improvement.
 
 # My Skills
 - Programming Languages: I'm proficient in languages such as Python, Java, and JavaScript, and always excited to explore more.
@@ -23,14 +23,6 @@ Hello there! 👋 I'm [Hilary Emmanuel], a passionate backend developer with a s
 - Collaborate with experienced developers and learn from their expertise.
 
 - Contribute to the tech community through knowledge sharing and mentorship as I grow in my career.
-
-
-Creating a README profile for a backend developer with no specific years of experience is still possible and can highlight your skills, interests, and goals. Here's an example of what your README profile could look like:
-
-Backend Developer Profile
-Profile Picture
-
-Hello there! 👋 I'm [Your Name], a passionate backend developer with a strong interest in creating robust and scalable solutions. While I may not have specific years of experience to boast about, I am enthusiastic about technology and committed to continuous learning and improvement.
 
 🚀 My Skills
 Programming Languages: I'm proficient in languages such as Python, Java, and JavaScript, and always excited to explore more.
