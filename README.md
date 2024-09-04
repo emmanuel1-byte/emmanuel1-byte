@@ -40,7 +40,7 @@ Here’s a quick overview of the tools I’m currently working with:
 ## 📫 How to Reach Me
 - **LinkedIn:** [Emmanuel Hilary](https://www.linkedin.com/in/emmanuelhilary)
 - **GitHub:** [@emmanuel1-byte](https://github.com/emmanuel1-byte)
-- **Email:** emmanuel@example.com (you might want to add your actual email address here)
+- **Email:** emmanuelhilary9@gmail.com
 
 ## 🎉 Fun Fact
 When I’m not coding, you might find me exploring the latest in AI tech, gaming, or dreaming up the next big app idea. I’m also a big fan of coffee and late-night coding sessions—because, let’s face it, some of the best ideas happen after midnight!
