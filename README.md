@@ -18,6 +18,9 @@ I'm a **Backend Engineer** with a passion for solving complex problems, optimizi
 - **Containerization:** Docker is my friend! I’m packaging applications into containers and orchestrating them with Kubernetes.
 - **Infrastructure as Code:** Terraform and CloudFormation are helping me define and provision infrastructure in a repeatable way.
 
+### 🤖 **Artificial Intelligence (My Latest Interest)**
+- **AI Exploration**: Diving into AI technologies and exploring how they can integrate with backend systems to create smarter, more adaptive applications.
+
 ### 🧰 **Tech Stack**
 Here’s a quick overview of the tools I’m currently working with:
 - **Languages:** JavaScript (Node.js), Python, TypeScript, Golang
@@ -38,7 +41,7 @@ Here’s a quick overview of the tools I’m currently working with:
 - **Continuous Learning:** The tech world moves fast, and I’m committed to staying ahead of the curve.
 
 ## 📫 How to Reach Me
-- **LinkedIn:** [Emmanuel Hilary](https://www.linkedin.com/in/emmanuelhilary)
+- **LinkedIn:** [Emmanuel Hilary](www.linkedin.com/in/emmanuel-hilary-080044240)
 - **GitHub:** [@emmanuel1-byte](https://github.com/emmanuel1-byte)
 - **Email:** emmanuelhilary9@gmail.com
 
