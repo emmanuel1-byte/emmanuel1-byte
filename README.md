@@ -27,7 +27,7 @@ Here’s a quick overview of the tools I’m currently working with:
 - **Databases:** MongoDB, PostgreSQL, MySQL, Redis
 - **Cloud:** AWS (EC2, S3, RDS), Azure
 - **DevOps:** Docker, Kubernetes, Jenkins, GitHub Actions, Terraform
-- **Others:** Express.js, NestJS, FastAPI, Flask
+- **Others:** Express.js, NestJS, FastAPI, Django
 
 ## 🌱 I’m Open To...
 - **Collaborations:** Have an exciting project? Let’s team up and build something awesome together!
