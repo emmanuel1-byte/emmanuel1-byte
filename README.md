@@ -1,6 +1,6 @@
-**Engineer at the intersection of AI, backend systems, and cloud infrastructure.**
+## Engineer at the intersection of AI, backend systems, and cloud infrastructure.
 
-I build machines that think, systems that scale, and tools that adapt. My work lives where code meets intelligence — backend services powered by data, deployed in the cloud, and enhanced by AI.
+I build machines that think, systems that scale, and tools that adapt. My work lives where code meets intelligence backend services powered by data, deployed in the cloud, and enhanced by AI.
 
 ## Core Focus
 
