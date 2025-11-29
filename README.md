@@ -1,5 +1,3 @@
----
-
 # Emmanuel Hilary
 
 Ah, you found me again.
@@ -22,7 +20,3 @@ If you’ve stumbled onto this GitHub profile by fate or accident, just follow d
 ## Links
 
 [GitHub](https://github.com/emmanuel1-byte) • [LinkedIn](https://www.linkedin.com/in/emmanuel-hilary-080044240) • 📬 [emmanuelhilary9@gmail.com](mailto:emmanuelhilary9@gmail.com)
-
----
-
-If you want it even more dramatic, even funnier, or more unhinged-genius energy, say the word.
