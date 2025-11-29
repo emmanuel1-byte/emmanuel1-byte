@@ -1,6 +1,5 @@
 # Emmanuel Hilary
 
-Ah, you found me again.
 Welcome to the chaos lab the place where my ideas, half-finished experiments, wild solutions, and accidental breakthroughs all gather to vibe.
 
 I play in the worlds of Backend, DevOps, Cloud, AI, and Data. Basically, if it looks stressful enough to make someone reconsider their life choices, that’s exactly the kind of problem I want. Pass it here.
