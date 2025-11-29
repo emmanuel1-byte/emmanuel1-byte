@@ -15,7 +15,7 @@ And here’s one of the hard-earned laws of my engineering existence:
 Don’t jump in raw. Map the flow. Draw the thing. Sketch the madness.
 Clarity is cheaper than debugging at 2 AM.
 
-If you’ve stumbled onto this GitHub profile by fate or accident, just follow destiny brought you here anyway.
+If you’ve stumbled onto this GitHub profile by fate or accident, just follow destiny brought you here anyway....
 
 ## Links
 
