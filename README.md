@@ -18,4 +18,4 @@ If you’ve stumbled onto this GitHub profile by fate or accident, just follow d
 
 ## Links
 
-[GitHub](https://github.com/emmanuel1-byte) • [LinkedIn](www.linkedin.com/in/emmanuel-hilary-7309453a2) • 📬 [emmanuelhilary9@gmail.com](mailto:emmanuelhilary.contact@gmail.com)
+[GitHub](https://github.com/emmanuel1-byte) • [LinkedIn](www.linkedin.com/in/emmanuel-hilary-7309453a2) • 📬 [emmanuelhilary.contact@gmail.com](mailto:emmanuelhilary.contact@gmail.com)
