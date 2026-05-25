@@ -1,31 +1,38 @@
-# Emmanuel Hilary
-
-Infra, DevOps, Cloud, AI, Data. That's the playground.
-
-I treat systems like cities. You don't pour concrete first and figure out the roads later — you decide where the water flows, where the power runs, where things connect. Then you build.
-
-Most of my work is that part. The decisions before the decisions. Where the load lands. What fails first when something fails. What it costs you in eighteen months that nobody is thinking about today.
 
 ---
 
-### What I'm into
+# Emmanuel Hilary
+Backend engineer moving toward AI infrastructure — inference and serving.
 
-**Infra & DevOps** — the wiring underneath everything. Pipelines, environments, the parts that decide whether deploys are calm or cursed.
+I currently build backend systems in production. The direction I'm moving is the layer underneath AI: how models actually get served — fast, cheap, reliably, at load. That's the work I'm learning toward.
 
-**Cloud** — provisioning, networking, and the architectural choices that quietly decide your bill six months from now.
+I'm interested in what happens before the first request lands. Where the load goes. What fails first when something fails. Why GPUs sit at 30% utilization while the bill doesn't.
 
-**AI** — building with it properly. Pipelines, retrieval, integrating it into real systems instead of bolting a chatbot onto a homepage.
+---
 
-**Data** — schemas, flows, the foundation that decides whether anything on top of it is actually useful.
+### Where I am now
+
+Backend engineering — APIs, schemas, services. The fundamentals that carry over: distributed systems thinking, debugging under pressure, designing things that don't fall over when they meet real traffic.
+
+### Where I'm going
+
+**Inference & serving** — the layer between a trained model and a real user. Batching, scheduling, KV cache, quantization. The trade-offs between throughput and tail latency.
+
+**Serving runtimes** — vLLM, TensorRT-LLM, TGI. Autoscaling that tracks load. Multi-model routing. GPU utilization that isn't quietly wasted.
+
+**Cloud & systems underneath** — provisioning, networking, the architectural choices that quietly decide your bill six months from now.
+
+**Pipelines around the model** — retrieval, caching, the parts that decide whether the model is fast because it's fast or fast because most requests never reach it.
 
 ---
 
 ### How I move
 
-I want to be properly good at all of it — infra, data, AI, cloud. The interesting problems sit between these things, not inside one of them.
+The interesting problems in inference sit between layers — between the model and the runtime, between the runtime and the scheduler, between the scheduler and the hardware. I'm working toward being properly good across that whole stack, not stuck at one slice of it.
 
 ---
 
 ### Reach me
-
 [GitHub](https://github.com/emmanuel1-byte) · [LinkedIn](https://www.linkedin.com/in/emmanuel-hilary-7309453a2) · [emmanuelhilary.contact@gmail.com](mailto:emmanuelhilary.contact@gmail.com)
+
+---
