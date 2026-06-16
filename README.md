@@ -1,38 +1,35 @@
-
----
-
 # Emmanuel Hilary
-Backend engineer moving toward AI infrastructure — inference and serving.
 
-I currently build backend systems in production. The direction I'm moving is the layer underneath AI: how models actually get served — fast, cheap, reliably, at load. That's the work I'm learning toward.
+Backend engineer moving toward AI infrastructure, specifically inference and serving.
 
-I'm interested in what happens before the first request lands. Where the load goes. What fails first when something fails. Why GPUs sit at 30% utilization while the bill doesn't.
+I build backend systems in production today. The direction I'm headed is the layer underneath AI: how models actually get served, fast and cheap and reliably, under real load. That's the work I'm learning toward.
+
+What pulls me in is everything that happens before the first request lands. Where the load goes. What fails first when something fails. Why GPUs sit at 30% utilization while the bill doesn't move.
 
 ---
 
 ### Where I am now
 
-Backend engineering — APIs, schemas, services. The fundamentals that carry over: distributed systems thinking, debugging under pressure, designing things that don't fall over when they meet real traffic.
+Backend engineering: APIs, schemas, services. The fundamentals that carry over are distributed systems thinking, debugging under pressure, and designing things that hold up when they meet real traffic.
 
 ### Where I'm going
 
-**Inference & serving** — the layer between a trained model and a real user. Batching, scheduling, KV cache, quantization. The trade-offs between throughput and tail latency.
+**Inference and serving.** The layer between a trained model and a real user. Batching, scheduling, KV cache, quantization, and the trade off between throughput and tail latency.
 
-**Serving runtimes** — vLLM, TensorRT-LLM, TGI. Autoscaling that tracks load. Multi-model routing. GPU utilization that isn't quietly wasted.
+**Serving runtimes.** vLLM, TensorRT-LLM, TGI. Autoscaling that actually tracks load. Multi model routing. GPU utilization that isn't quietly wasted.
 
-**Cloud & systems underneath** — provisioning, networking, the architectural choices that quietly decide your bill six months from now.
+**Cloud and systems underneath.** Provisioning, networking, and the architectural choices that quietly decide your bill six months out.
 
-**Pipelines around the model** — retrieval, caching, the parts that decide whether the model is fast because it's fast or fast because most requests never reach it.
+**Pipelines around the model.** Retrieval, caching, and the parts that decide whether the model is fast because it's fast, or fast because most requests never reach it.
 
 ---
 
 ### How I move
 
-The interesting problems in inference sit between layers — between the model and the runtime, between the runtime and the scheduler, between the scheduler and the hardware. I'm working toward being properly good across that whole stack, not stuck at one slice of it.
+The interesting problems in inference live between layers. Between the model and the runtime, between the runtime and the scheduler, between the scheduler and the hardware. I'm working toward being properly good across that whole stack rather than stuck in one slice of it.
 
 ---
 
 ### Reach me
-[GitHub](https://github.com/emmanuel1-byte) · [LinkedIn](https://www.linkedin.com/in/emmanuel-hilary-7309453a2) · [emmanuelhilary.contact@gmail.com](mailto:emmanuelhilary.contact@gmail.com)
 
----
+[GitHub](https://github.com/emmanuel1-byte) · [LinkedIn](https://www.linkedin.com/in/emmanuel-hilary-7309453a2) · [emmanuelhilary.contact@gmail.com](mailto:emmanuelhilary.contact@gmail.com)
